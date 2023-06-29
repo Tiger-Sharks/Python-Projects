@@ -1,2 +1,2 @@
 # Python-Projects
-Python Projects covering various aspects of the Language.
+Single Program, Simple Python Projects covering various aspects and topics of the Language.
